@@ -70,3 +70,13 @@ So you can show investors instantly.
 5. Generate visual renders for both apps
 
 High-grade presentation graphics.
+
+## Example Training Scenarios (Preview)
+
+- **Unresponsive Adult — Unknown Downtime**
+  Primary assessment, scene safety, airway decision path.
+
+- **Multi-Vehicle Accident (MVA)**
+  Rapid triage, bleeding control priorities, bystander management.
+
+> Full scenario libraries expand by role and certification level.

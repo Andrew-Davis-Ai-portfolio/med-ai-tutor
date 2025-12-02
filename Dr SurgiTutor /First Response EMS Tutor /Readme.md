@@ -1,3 +1,8 @@
+> ⚠️ Educational simulation only.  
+> This system does not provide diagnosis, treatment, or real-world medical advice.
+> It is designed to support decision-awareness, protocol familiarity,
+> and situational judgment for training environments.
+
 AI Emergency Simulator
 
 Core Purpose

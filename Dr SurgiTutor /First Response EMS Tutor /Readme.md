@@ -80,3 +80,15 @@ High-grade presentation graphics.
   Rapid triage, bleeding control priorities, bystander management.
 
 > Full scenario libraries expand by role and certification level.
+---
+
+## Why This Matters
+
+First responders operate under time pressure, stress, and incomplete information.
+Errors are rarely caused by lack of knowledge — they stem from decision overload.
+
+This simulator trains:
+- situational awareness
+- protocol sequencing
+- communication clarity
+- escalation judgment

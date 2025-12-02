@@ -82,6 +82,45 @@ High-grade presentation graphics.
 > Full scenario libraries expand by role and certification level.
 ---
 
+## Example Training Scenarios (Preview)
+
+> The following examples represent educational simulations only.
+> They demonstrate decision-awareness, not real-world instructions.
+
+### Scenario 1 — Unresponsive Adult (Unknown Downtime)
+
+**Context**
+- Scene: Private residence
+- Patient: Adult found unresponsive by family
+- Information incomplete on arrival
+
+**Training Focus**
+- Scene safety awareness  
+- Primary assessment sequencing  
+- Airway vs circulation prioritization  
+- Clear handoff communication  
+
+---
+
+### Scenario 2 — Multi-Vehicle Accident (MVA)
+
+**Context**
+- Scene: Roadway with multiple patients
+- Hazards: Traffic, bystanders, noise, confusion
+- Resources limited
+
+**Training Focus**
+- Situational awareness  
+- Rapid triage logic  
+- Bleeding control prioritization  
+- Command presence and communication  
+
+---
+
+> Full scenario libraries expand by role, context, and certification level.
+
+---
+
 ## Why This Matters
 
 First responders operate under time pressure, stress, and incomplete information.
